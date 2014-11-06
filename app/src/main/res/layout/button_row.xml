@@ -1,0 +1,17 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+
+        <Button style="@style/RemoteButton" />
+
+        <Button style="@style/RemoteButton" />
+
+        <Button style="@style/RemoteButton" />
+
+    </TableRow>
+
+</merge>
+
